@@ -17,6 +17,8 @@ h1 {
 
 .white-block {
   background-color: white;
+  margin: 0% 1% 0% 1%;
+  padding: 1%;
 }
 
 .gray-block {
