@@ -34,6 +34,12 @@ a {
   padding: 1% 1% 1% 1%;
 }
 
+h2 {
+  color: rgb(231, 50, 10);
+  font-weight: bold;
+  font-size: x-large;
+}
+
 footer {
   background-color: rgb(231, 50, 10);
 }
