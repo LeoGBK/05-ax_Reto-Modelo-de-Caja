@@ -22,7 +22,7 @@ h1 {
 }
 
 .gray-block {
-  background-color: rgb(214, 211, 211);
+  background-color: rgb(233, 230, 230);
   margin: 0% 0% 1% 0%;
   padding-bottom: 1%;
 }
@@ -38,6 +38,11 @@ h2 {
   color: rgb(231, 50, 10);
   font-weight: bold;
   font-size: x-large;
+}
+
+p {
+  font-weight: bold;
+  font-size: small;
 }
 
 footer {
