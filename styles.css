@@ -26,6 +26,13 @@ h1 {
   margin: 0% 0% 1% 0%;
 }
 
+img,
+h2,
+p,
+a {
+  padding: 1% 1% 1% 1%;
+}
+
 footer {
   background-color: rgb(231, 50, 10);
 }
