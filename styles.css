@@ -42,4 +42,9 @@ h2 {
 
 footer {
   background-color: rgb(231, 50, 10);
+  padding: 1% 0% 1% 0%;
+  color: white;
+  text-align: center;
+  font-style: italic;
+  font-size: small;
 }
