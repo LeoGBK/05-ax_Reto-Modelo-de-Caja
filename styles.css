@@ -1,7 +1,9 @@
+/* Fuente aplicada a todo el <body> */
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Fondo principal del <div> padre */
 .red-block {
   background-color: rgb(231, 50, 10);
 }
@@ -15,12 +17,14 @@ h1 {
   margin: 0% 40% 2% 40%;
 }
 
+/* Estilo para el bloque secundario blanco */
 .white-block {
   background-color: white;
   margin: 0% 1% 0% 1%;
   padding: 1%;
 }
 
+/* Estilo para los bloques grises que están dentro del bloque blanco */
 .gray-block {
   background-color: rgb(233, 230, 230);
   margin: 0% 0% 1% 0%;
